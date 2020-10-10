@@ -1,0 +1,12 @@
+{
+  "name": "pisces",
+  "displayName": "pisces",
+  "expo": {
+    "name": "pisces",
+    "slug": "pisces",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
